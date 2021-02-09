@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tknR8l0BOSDBQPZSaNfOcGlqZvXH/wCN8obEq9qTYOrzaNX88EaopHZz/dv+A0YoHbbb1BrGWmSa5QthIoU1EA==",
+  "dgSpecHash": "11f2VY8YJ3BBvRA/nE6vK1d5G8awdUvIc1DgL+mcJFGwpEWFvZqT9LREoTlb+IrvByTy+zSBqctYephQrnobeA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dawid\\OneDrive\\Documents\\demo\\SmartWallet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\dawid\\OneDrive\\Documents\\demo\\SmartWallet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dawid\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.2\\microsoft.aspnetcore.authentication.jwtbearer.5.0.2.nupkg.sha512",
