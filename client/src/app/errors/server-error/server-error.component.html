@@ -1,0 +1,15 @@
+<h4>Internal server error - odśwież stronę</h4>
+    <<ng-container *ngIf="error">
+        <h5 class='text-danger'>Error: {{error.message}}</h5>
+        <p class="font-weight-bold">Uwaga: jeżeli widzisz ten problem, to nie wina Angulara</p>
+        <p>Co robić dalej?</p>
+        <ol>
+            <li>Otwórz dev tools w przeglądarce</li>
+            <li>Zbadaj połączenie</li>
+            <li>Sprawdź błędne zapytanie</li>
+            <li>Zbadaj URL - upewnij się że jest poprawne</li>
+            <li>Odtwóz problem w Postman</li>
+        </ol>
+    <p>Tu powinno rozpocząć się Twoje badanie problemu</p>
+    <code class="mt-5" style="background-color:whitesmoke;">{{error.details}}</code>
+    </ng-container>
